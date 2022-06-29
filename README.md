@@ -52,3 +52,12 @@ _Tools: Excel, and R Studio The data comes from the company so it is trustworthy
 
 [Appache](https://choosealicense.com/licenses/apache-2.0/)
 
+## Report 
+![Visual1](https://github.com/Amr-mohamed10/Cyclist-Analysis/blob/main/Visualization/AVG%20trip%20duration%20vs%20day%20of%20week.PNG)
+
+![Visual2](https://github.com/Amr-mohamed10/Cyclist-Analysis/blob/main/Visualization/Number%20of%20trips%20per%20hour.PNG)
+
+![visual3](https://github.com/Amr-mohamed10/Cyclist-Analysis/blob/main/Visualization/Number%20of%20trips%20per%20month.PNG)
+
+![visual4](https://github.com/Amr-mohamed10/Cyclist-Analysis/blob/main/Visualization/Recommendations.PNG)
+
