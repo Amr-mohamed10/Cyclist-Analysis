@@ -6,7 +6,7 @@ library(readr)
 #know Your current working director 
 getwd()
 #Set a new director 
-setwd("C:/Users/Amr 10/Downloads/Trip analysis 2019-2020")
+setwd("C:/Users/..../Trip analysis 2019-2020")
 
 #Fix date format
 
