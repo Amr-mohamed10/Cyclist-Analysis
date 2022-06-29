@@ -1,4 +1,4 @@
 # Cyclist-Analysis-
 Bike-share analysis
 
-![MIT License](https://img.shields.io/chocolatey/dt/git)
+![Cyclist-logo](https://www.pinpng.com/picture/ihiTJoJ_cycling-cyclist-png-person-with-bike-png-transparent/)
